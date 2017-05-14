@@ -1,0 +1,11 @@
+C:\Users\vlad\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\test.exe.config
+C:\Users\vlad\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\test.exe
+C:\Users\vlad\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\test.pdb
+C:\Users\vlad\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\MySql.Data.dll
+C:\Users\vlad\Documents\Visual Studio 2017\Projects\test\test\bin\Debug\MySql.Data.xml
+C:\Users\vlad\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\vlad\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\vlad\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\vlad\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.exe
+C:\Users\vlad\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.pdb
+C:\Users\vlad\Documents\Visual Studio 2017\Projects\test\test\obj\Debug\test.Form.resources
